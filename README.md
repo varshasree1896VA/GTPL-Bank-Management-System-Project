@@ -225,9 +225,6 @@ This project demonstrates my commitment to delivering **reliable, secure, and us
 - [x] Integration Test Case Design
 - [x] Test Execution – Version 1
 - [x] Defect Documentation (27 defects logged)
-- [x] Test Report Generation
 - [ ] Regression Testing (Pending defect fixes)
 - [ ] Version 2 Testing (Future phase)
-- [ ] Automated Test Scripts (Future enhancement)
-
----
+  

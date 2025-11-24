@@ -220,7 +220,7 @@ This project demonstrates my commitment to delivering **reliable, secure, and us
 
 ## 📝 Project Status
 
-- [x] Requirements Analysis (SRS V1, V3, DRS)
+- [x] Requirements Analysis (SRS V1, V2,)
 - [x] Unit Test Case Design (60+ test cases)
 - [x] Integration Test Case Design
 - [x] Test Execution – Version 1
